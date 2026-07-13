@@ -1,0 +1,45 @@
+question,answer_agent,answer_orig,tool_calls,cost,document
+I found this course late — can I still enroll and follow along?,"Yes — you can still join the course and follow along. The materials and videos are available, so you can start anytime.
+
+One important caveat: if you want a certificate, you need to complete the course with the live cohort and submit your project while submissions are still open.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.","[{'name': 'search', 'arguments': '{""query"":""late enrollment follow along enroll course late can I still enroll""}'}]",0.0011340,74eb249bbf
+Is it too late to join the course if I only discovered it now?,"Yes — it’s still okay to join the course even if you just discovered it.
+
+According to the FAQ, you can start learning and submitting homework while the submission form is open. If you want a certificate, make sure you submit your project before submissions close.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.","[{'name': 'search', 'arguments': '{""query"":""too late to join course discovered now late registration enrollment FAQ""}'}]",0.00101025,74eb249bbf
+Can I start the course after it has already begun?,"Yes — you can start the course whenever you want. The videos and GitHub materials are available even after the course has begun.
+
+A typical workflow is:
+1. Watch the lesson videos.
+2. Work through the notebooks/code.
+3. Read the homework instructions on GitHub.
+4. Submit answers through the course platform before the deadline.
+
+One important note: while you can start late, certificates are only available if you finish with the live cohort, not in self-paced mode.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.","[{'name': 'search', 'arguments': '{""query"":""start the course after it has already begun late start enroll after course begins""}'}]",0.0013485,74eb249bbf
+"If I join late, am I still eligible for the certificate?","Yes — you can still join late, but to be eligible for the certificate you need to submit your project while the course is still accepting submissions.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.","[{'name': 'search', 'arguments': '{""query"":""late join certificate eligibility""}'}]",0.00090375,74eb249bbf
+What do I need to do to get a certificate if I’m joining the course now?,"If you’re joining now, you can still get a certificate, but you need to **submit your project while submissions are still open**.
+
+Key points:
+- **Certificate requires finishing with the live cohort**, not self-paced.
+- **You must pass the Capstone project**.
+- **Homework is not mandatory** for the certificate.
+- You also need to **peer-review 3 capstone projects** after submitting yours, since that’s part of the live cohort certificate process.
+
+If you want, I can also tell you how late you can join and still be eligible.","Yes, but if you want to receive a certificate, you need to submit your project while we’re still accepting submissions.","[{'name': 'search', 'arguments': '{""query"":""certificate joining course now requirements certificate late joiner""}'}]",0.0013245,74eb249bbf
+"I signed up for the LLM Zoomcamp, but I still didn’t get any confirmation email — is that normal?","Yes — that’s normal.
+
+For LLM Zoomcamp, you **don’t need the confirmation email** to be accepted. Registration is mainly to gauge interest, and you can still **start learning and submit homework** while the form is open. It’s **not checked against a registered list**.
+
+If you want, I can also point you to the course platform and the best place to start.",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,"[{'name': 'search', 'arguments': '{""query"":""LLM Zoomcamp confirmation email signup not received normal""}'}]",0.0014415,977bf7786c
+Do I actually need a confirmation email before I can start the course and submit homework?,"No — you don’t need to wait for the confirmation email.
+
+According to the course FAQ, you’re accepted once you register, and you can start learning and submitting homework as long as the submission form is open. Registration is just to gauge interest and is not checked against a registered list.",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,"[{'name': 'search', 'arguments': '{""query"":""confirmation email start course submit homework""}'}]",0.00117825,977bf7786c
+"If I registered for the LLM Zoomcamp, does that mean I’m officially accepted already?","Yes — for LLM Zoomcamp, registering does **not** mean you’re waiting for a separate acceptance step. The FAQ says:
+
+- **You’re accepted**
+- You can **start learning and submitting homework** while the form is open
+- Registration is **just to gauge interest**, not a screening process
+
+So if you registered, you can go ahead and start.",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,"[{'name': 'search', 'arguments': '{""query"":""registered for the LLM Zoomcamp officially accepted already""}'}]",0.0014115,977bf7786c
+"Is registration mandatory for the course, or can I just begin the lessons and turn in homework while the form is open?","Registration is **not mandatory**. You can **start learning and submit homework while the form is open** without registering. The registration is mainly for gauging interest, and it is **not checked against a registered list**.",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,"[{'name': 'search', 'arguments': '{""query"":""registration mandatory course begin lessons turn in homework while form is open""}'}]",0.00121875,977bf7786c
+Does the course check whether I’m on some registered list before letting me submit assignments?,"No — for this course, homework submissions are **not checked against any registered list**. You can start learning and submit homework as long as the submission form is open; registration is only used to gauge interest before the start date.
+
+",You don't need it. You're accepted. You can also just start learning and submitting homework (while the form is open) without registering. It is not checked against any registered list. Registration is just to gauge interest before the start date.,"[{'name': 'search', 'arguments': '{""query"":""registered list before submitting assignments submit assignment eligibility roster enrolled list""}'}]",0.00102375,977bf7786c
